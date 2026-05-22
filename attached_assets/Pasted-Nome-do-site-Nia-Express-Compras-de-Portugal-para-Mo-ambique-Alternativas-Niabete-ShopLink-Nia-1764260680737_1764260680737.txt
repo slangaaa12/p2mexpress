@@ -1,0 +1,135 @@
+Nome do site: Nia Express | Compras de Portugal para Moçambique
+(Alternativas: Niabete ShopLink, Nia Global Market, Nia Portugal→Moz, Nia Cargo Store)
+
+Objetivo do Website
+
+Criar um site informativo, amigável e fácil de navegar para uma agência chamada Nia Express, especializada em compras e envio de artigos de lojas portuguesas para clientes em Moçambique.
+
+O site deve atender pessoas de 18 a 65+ anos, com interface simples e orientação clara.
+
+Conteúdos obrigatórios
+1. Secção Principal / Banner Inicial
+
+Texto tipo slogan:
+“Encomendas de Portugal para Moçambique — Porque estar longe não significa estar sem.”
+
+Mostrar logos das lojas:
+Zara, Stradivarius, Bershka, Mango, Pull&Bear, Primark, Kiko Milano, H&M, ASOS, Weekday.
+
+Mostrar preço do serviço:
+Preço: 1400 MT/kg
+
+Prazo de entrega:
+5 dias úteis a partir do envio de Portugal para Moçambique
+
+2. Funcionamento do Serviço
+
+Explicar os passos de forma clara:
+
+O cliente entra no site e escolhe a loja desejada clicando no link.
+
+Abre a loja oficial (Zara, Mango, etc.).
+
+Escolhe o produto e tira um print ou copia o link.
+
+Envia o print / link para o WhatsApp da agência.
+
+A agência envia o orçamento final com peso estimado + taxa (1400 MT/kg).
+
+Cliente confirma e faz pagamento.
+
+O artigo é comprado em Portugal e enviado para Moçambique.
+
+3. Secção de Lojas (com links clicáveis)
+
+Cada loja deve ter:
+
+Logo
+
+Descrição curta
+
+Link direto para a loja oficial
+
+Exemplo:
+
+Zara – https://www.zara.com
+
+Stradivarius – https://www.stradivarius.com
+
+Mango – https://shop.mango.com
+
+Bershka – https://www.bershka.com
+
+Pull&Bear – https://www.pullandbear.com
+
+Primark – (usar link de catálogo online)
+
+ASOS – https://www.asos.com
+
+H&M – https://www2.hm.com
+
+Kiko Milano – https://www.kikocosmetics.com
+
+OBS: Ideal colocar botão “Visitar Loja” para cada uma.
+
+4. Promoções (com base na Imagem 2)
+
+Criar uma secção mostrando as datas dos descontos:
+
+ASOS — 29 Nov: 50–70% OFF
+
+Mango — 28 Nov: 50% OFF
+
+Primark — 29 Nov: 80% OFF
+
+Weekday — 24 Nov: 40% OFF
+
+Bershka — 26 Nov: 50% OFF
+
+Pull&Bear — 27 Nov: 50% OFF
+
+Zara — 28 Nov: 70% OFF
+
+H&M — 29 Nov: 60% OFF
+
+5. Botão Flutuante do WhatsApp
+
+Adicionar um botão verde fixo no canto inferior direito:
+
+Ícone do WhatsApp
+
+Mensagem automática pré-programada:
+
+“Olá, gostaria de fazer uma encomenda de Portugal para Moçambique.”
+
+6. Secção de Perguntas Frequentes
+
+Exemplos:
+
+Como é calculado o preço?
+
+Quanto tempo leva a chegar?
+
+Posso encomendar vários itens?
+
+Posso encomendar produtos de cosmética?
+
+Como confirmo o pagamento?
+
+7. Secção “Sobre a Nia Express”
+
+Breve explicação da agência, missão, confiança, segurança e rapidez.
+
+8. Visual / UI
+
+Design limpo, cores suaves (bege/gold, branco, preto)
+
+Ícones grandes e de fácil leitura
+
+Botões grandes
+
+Fonte simples
+
+RESULTADO ESPERADO
+
+Um site profissional, simples e informativo, com ligações diretas para as lojas e com orientação clara para usar o WhatsApp para fazer pedidos.
